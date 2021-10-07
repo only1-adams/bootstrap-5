@@ -54,6 +54,7 @@
         margin-bottom: 30px;
     }
     .bu{
+        display: block;
         background-color: rgb(71, 71, 71) !important;
         padding-left: 0px !important;
         padding-right: 0px !important;
